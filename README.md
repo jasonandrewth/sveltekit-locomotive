@@ -2,7 +2,7 @@
 
 Very simple implementation of smooth scrolling in svelte-kit using the locomotive-scroll library.
 
-Check out the original locomotive-scroll [repo](URL 'https://github.com/locomotivemtl/locomotive-scroll')
+Check out the original locomotive-scroll [repo]('https://github.com/locomotivemtl/locomotive-scroll')
 
 ## Developing
 
